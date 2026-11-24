@@ -1,0 +1,777 @@
+"@kullanıcıadı veya linkedin/kullanıcıadı da olur; https:// ve /in/ yazman gerekmez." = "@username or linkedin/username also works. You can leave out https:// and /in/.";
+"# Kişisel bağlamım · tanıtım örneği\n- İşten sonra kendime zaman ayırmak istiyorum.\n- Düzenli hareket etmek bana iyi geliyor.\n- Salı ve perşembe 18.00’de yüzmek istiyorum.\n\nBağlantılar: Kişisel zaman → Düzenli hareket → Yüzme → Haftalık düzen\nKaynak: Örnek günlük\n\nBu bağlamdan yalnız verdiğim işle ilgili parçaları kullan." = "# Personal context · sample\n- I want to make time for myself after work.\n- Regular movement makes me feel good.\n- I want to swim on Tuesdays and Thursdays at 6 pm.\n\nConnections: Personal time → Regular movement → Swimming → Weekly routine\nSource: Sample journal\n\nUse only the parts of this context that are relevant to my task.";
+"Açık web üzerinden beni araştır" = "Research me on the public web";
+"Adın veya araştırılacak adın" = "Your name or the name to research";
+"AI tüketim kaydı" = "AI usage";
+"Ajanda" = "Schedule";
+"Ajandada gör" = "See schedule";
+"Akışı yeniden keşfet" = "Explore the flow again";
+"Aklındaki ne?" = "What's on your mind?";
+"Aktivite sayısı" = "Activity count";
+"Analiz çalışıyor…" = "Analysis running…";
+"Analiz kaydedildi" = "Analysis saved";
+"Analizin" = "Your analysis";
+"Analizlerinin kullanım bilgileri" = "Usage details for your analyses";
+"Ayarlar" = "Settings";
+"Ayarlar’ın en üstündeki paylaşım kartına dokun." = "Tap the sharing card at the top of Settings.";
+"Bağlantı ayrıntıları" = "Connection details";
+"Bağlantılar" = "Connections";
+"Bağlantılarımı kaydet" = "Save my links";
+"Bağlantıların ve araştırma tercihin" = "Your links and research preference";
+"Bağları geliştir" = "Develop connections";
+"Bağlı düşünceler" = "Related thoughts";
+"Bağlı notlar" = "Linked notes";
+"Bildirimler" = "Notifications";
+"Bir konuya gir, bağlantılarını keşfet." = "Open a topic and explore its connections.";
+"Bir notun içini keşfet." = "Explore a note.";
+"Birlikte netleştirelim." = "Let's clarify together.";
+"Boş" = "Blank";
+"Bu gün boş." = "This day is clear.";
+"Bu günün günlüğünü aç" = "Open this day's journal";
+"Bu konuya odaklan" = "Focus on this topic";
+"Bu notu düzelt" = "Correct this note";
+"Bu örnek AI kullanım hakkı harcamaz." = "This example does not use your AI allowance.";
+"Bugün" = "Today";
+"Bugüne dön" = "Back to today";
+"Bunu zaten söyledim" = "I've already said this";
+"Buradan başla…" = "Start here…";
+"ChatGPT bağlantısı" = "ChatGPT connection";
+"Cmt" = "Sat";
+"Cum" = "Fri";
+"Çar" = "Wed";
+"Çıkış yap" = "Sign out";
+"Daily logosunu dene" = "Try the Daily logo";
+"Devam et" = "Continue";
+"Diğer · hesap, site veya kısa açıklama" = "Other · account, website or short description";
+"Diğer takip konuları" = "Other follow-ups";
+"Erteledim" = "Postponed";
+"Evet" = "Yes";
+"Evet veya Hayır seç. Sonraki ajanda ekranı bu örnek yanıtına göre değişecek." = "Choose Yes or No. The next schedule screen will reflect your sample answer.";
+"Firebase ve hesaplarını kontrol et" = "Check Firebase and your accounts";
+"Geç" = "Skip";
+"Geri" = "Back";
+"Günlüğünden doğan bir takip sorusu." = "A follow-up question from your entry.";
+"Günlüğünün soruları" = "Journal questions";
+"Günlük yazılmadı" = "No journal entry";
+"Hafıza geçmişi" = "Memory history";
+"Hafızanı yanında taşı." = "Take your memory with you.";
+"Hangi bilgi eksik?" = "What is missing?";
+"Harita hazırlanıyor…" = "Preparing map…";
+"Haritadan çık" = "Close map";
+"Haritalar" = "Maps";
+"Haritalar · Hareket" = "Maps · Movement";
+"Haritalarını notları ve kaynaklarıyla dosya olarak alıp başka bir AI aracına başlangıç bağlamı verebilirsin." = "Export your maps with their notes and sources, then give that file to another AI tool as starting context.";
+"Haritalarının hareketi" = "Map motion";
+"Hatırlatmalar ve bildirim saatleri" = "Reminders and delivery times";
+"Hatırlatmayı sen seç." = "Choose your reminder.";
+"Hayır" = "No";
+"Hazır olduğunda Daily butonuna dokun." = "Tap the Daily button when you are ready.";
+"Hesabın" = "Your account";
+"Hesap ve sunucu durumu" = "Account and server status";
+"Instagram · kullanıcı adı veya link" = "Instagram · username or link";
+"Işık akışı" = "Light flow";
+"Kapat" = "Close";
+"Kaydedildi" = "Saved";
+"Kaydedilmiş yanıtları da göster" = "Show saved answers too";
+"Kaydet ve araştırmayı hazırla" = "Save and prepare research";
+"Kaynak: Örnek günlük" = "Source: Sample journal";
+"Kendi AI hesabın" = "Your own AI account";
+"Kendi AI hesabın ve modelin" = "Your own AI account and model";
+"Kendi Firebase veritabanın" = "Your own Firebase database";
+"Kendi hesabın, kendi alanın." = "Your account, your space.";
+"Kendi veritabanın, kendi AI hesabın, kendi günlüğün; kontrol sende. İstersen şimdi sosyal profillerini ekle." = "Your database, your AI account, your journal. You are in control. Add your social profiles if you wish.";
+"Kendini tanıt" = "Introduce yourself";
+"Kırmızı bağlar yeni eklenenleri gösterir. Haritayı yakınlaştır; Yüzme notuna dokun." = "Red connections show new additions. Zoom in and tap the Swimming note.";
+"Kişisel alanın" = "Your space";
+"Kişisel bağlamın" = "Your personal context";
+"Kullanıcı adını, bağlantını veya kısa bir profil ipucunu yaz. Eksik adresleri tamamlarız. Kaydetmek tek başına araştırma başlatmaz." = "Add your username, a link or a short profile hint. We can complete partial links. Saving alone does not start research.";
+"Kurulum ve bağlantı kontrolü" = "Setup and connection check";
+"LinkedIn · kullanıcı adı veya link" = "LinkedIn · username or link";
+"Model ve düşünme seviyesi Ayarlar’da seçilir." = "Choose your model and reasoning level in Settings.";
+"Ne değiştiğini gör" = "See what changed";
+"Notlar açılıyor…" = "Opening notes…";
+"Notların ve düzeltmelerin" = "Your notes and corrections";
+"Notu kapat" = "Close note";
+"Notun açıklaması, bağlantıları ve geldiği günlük birlikte okunur." = "Read the note, its connections and its source journal together.";
+"Onay verirsen araştırma isteği bugünün yazısına ayrı bir bölüm olarak eklenir. Göndermeden önce okuyup değiştirebilir, Daily butonuyla başlatabilirsin. Zaten var olan yazın korunur." = "With your consent, a research request is added as a separate section of today's draft. Review or edit it before starting with the Daily button. Your existing writing is preserved.";
+"Önceki ay" = "Previous month";
+"Önceki değerlendirmeler" = "Previous reflections";
+"Örnek" = "Sample";
+"ÖRNEK" = "SAMPLE";
+"Örnek analiz çalışıyor." = "Sample analysis is running.";
+"Örnek analiz çalışıyor…" = "Running sample analysis…";
+"Örnek bir günlükle dene." = "Try a sample journal.";
+"Örnek dosya" = "Sample file";
+"Örnek günlükten 4 not · 3 bağlantı" = "4 sample notes · 3 connections";
+"Örnek notu aç" = "Open sample note";
+"Örnek notu kapat" = "Close sample note";
+"Örnek salı · %lld aktivite" = "Sample Tuesday · %lld activities";
+"Örnek taslak" = "Sample draft";
+"Örnek yanıt" = "Sample answer";
+"Örnek yanıt: %@" = "Sample answer: %@";
+"Örnek yazından notlar ve bağlantılar hazırlanıyor." = "Preparing notes and connections from your sample entry.";
+"Paylaşım kartını aç" = "Open sharing card";
+"Paylaşımı keşfet" = "Explore sharing";
+"Paz" = "Sun";
+"Per" = "Thu";
+"Planın ajandada." = "Your plan is on the schedule.";
+"Pzt" = "Mon";
+"Sal" = "Tue";
+"Salı ve perşembe 17.30 için." = "Tuesday and Thursday at 5:30 pm.";
+"Salı ve perşembe 18.00’de yüzmek istiyorum. Düzenli hareket etmek bana iyi geliyor. İşten sonra kendime zaman ayırmak istiyorum." = "I want to swim on Tuesdays and Thursdays at 6 pm. Regular movement makes me feel good. I want to make time for myself after work.";
+"Seçimi bitir" = "Finish selection";
+"Seni biraz daha tanısın." = "Let it get to know you.";
+"Seni tanıyan bağlamı yeni AI işlerine ekle." = "Bring your personal context to new AI tasks.";
+"Simülasyon · Gerçek AI isteği veya Firebase kaydı yapılmaz." = "Simulation · No AI request or Firebase write is made.";
+"Son işlem geri alındı" = "Last change undone";
+"Sonraki ay" = "Next month";
+"Sorular" = "Questions";
+"Sorulara geç" = "Go to questions";
+"Sorularını aç" = "Open questions";
+"Sosyal profillerin" = "Social profiles";
+"Söz sende." = "Your turn.";
+"Şimdi Daily logosuna dokun." = "Now tap the Daily logo.";
+"Tanıtım" = "Tour";
+"Tanıtım önizlemesi" = "Tour preview";
+"Tanıtımı geç" = "Skip tour";
+"Taslak" = "Draft";
+"Tüm haritayı göster" = "Show full map";
+"Uygulama dili" = "App language";
+"Uygulama tanıtımı" = "App tour";
+"UYGULAMADA DENE · %lld / 7" = "TRY IT IN THE APP · %lld / 7";
+"Üstte vurgulanan logo yazını kaydedip analizi başlatır. Burada bir saniyelik simülasyon izleyeceksin." = "The highlighted logo saves your writing and starts analysis. Here you will see a one-second simulation.";
+"Verdiğim bağlantıları ve erişilebilir açık kaynakları inceleyip kaynaklı notları mevcut zihin haritalarıma eklemesini istiyorum." = "Use the links I provide and accessible public sources to add sourced notes to my existing mind maps.";
+"Yalnız kendi hesabınla analiz başlatıldığında gerekli ad ve bağlantılar OpenAI’a gönderilir. Gizli hesaplar, özel mesajlar ve giriş isteyen içeriklere erişim garanti edilmez. Kullanım hakkın tüketilebilir. Onayı kapatmak yeni araştırmayı durdurur; önceden oluşmuş notları Haritalar’dan yönetebilirsin." = "The required names and links are sent to OpenAI when you start analysis with your own account. Access to private profiles, messages and login-only content is not guaranteed. Account usage may be consumed. Turning consent off stops new research. Manage existing notes in Maps.";
+"Yanıt bekleyen" = "Unanswered";
+"Yanıtı oku" = "Read response";
+"Yanıtla" = "Reply";
+"Yanıtladıklarım" = "Answered";
+"Yapabildin mi?" = "Did you manage it?";
+"Yapmadım" = "Skipped";
+"Yaptım" = "Done";
+"Yazı alanına örnek bir metin yerleştiriyoruz. Gerçek günlüğün korunur." = "A sample entry appears in the writing area. Your own journal stays safe.";
+"Yeni AI işine bu bağlamı ekle." = "Add this context to a new AI task.";
+"Yeni bağlantıların oluştu." = "Your new connections are ready.";
+"Yeni bir AI işine ekleyebileceğin başlangıç bilgisi." = "Starting context you can add to a new AI task.";
+"Yeni taslak" = "New draft";
+"Yüzme 18.00’de; onayladığın hatırlatma 17.30’da. Günün rozeti iki kaydı gösteriyor." = "Swimming is at 6 pm and your approved reminder is at 5:30 pm. The badge shows two items.";
+"Yüzme 18.00’de. Hatırlatmayı onaylamadığın için yalnız plan eklendi." = "Swimming is at 6 pm. You declined the reminder, so only the plan was added.";
+"Yüzmeden 30 dakika önce hatırlatayım mı?" = "Remind you 30 minutes before swimming?";
+"Zihin atlasın" = "Your mind atlas";
+"Zihin haritalarını paylaş" = "Share mind maps";
+
+/* Service destinations and guided navigation */
+"Veritabanın senin." = "Your database is yours.";
+"AI hesabın da senin." = "Your AI account is yours, too.";
+"AI hesabını keşfet" = "Explore your AI account";
+"Kendi Firebase projen günlüğünü ve zihin haritalarını saklar. Bu tanıtım hesap bağlamaz; gerçek kurulum Ayarlar’dadır." = "Your own Firebase project stores your journal and mind maps. This tour does not connect an account; real setup is in Settings.";
+"Kendi ChatGPT hesabınla giriş yapıp erişebildiğin modeli ve düşünme seviyesini seçersin. İstersen şimdi sosyal profillerini ekle." = "Sign in with your own ChatGPT account, then choose an available model and reasoning level. You can add your social profiles next.";
+"Günlüğün, notların ve bağlantıların kendi Firebase projenle eşitlenir. Kurulumu Ayarlar’dan tamamlarsın." = "Your journal, notes and connections sync with your own Firebase project. Complete setup in Settings.";
+"Kendi ChatGPT hesabını bağla. Hesabının erişebildiği modeli ve düşünme seviyesini sen seç." = "Connect your own ChatGPT account. Choose a model and reasoning level available to your account.";
+"Tanıtım örneği · Hesap bağlanmadı" = "Tour example · No account connected";
+"YAZINI ANALİZ ET" = "ANALYSE YOUR WRITING";
+"BAĞLANTILARINI KEŞFET" = "EXPLORE YOUR CONNECTIONS";
+"HATIRLATMAYI SEÇ" = "CHOOSE A REMINDER";
+"PLANINI GÖR" = "VIEW YOUR PLAN";
+"HAFIZANI PAYLAŞ" = "SHARE YOUR MEMORY";
+"KENDİ VERİTABANIN" = "YOUR OWN DATABASE";
+"KENDİ AI HESABIN" = "YOUR OWN AI ACCOUNT";
+"Bağlantı kontrol ediliyor" = "Checking connection";
+"Bağlantı doğrulandı" = "Connection verified";
+"Bağlantı gerekli" = "Connection needed";
+"Hatırlatmalar açık" = "Reminders enabled";
+"Hatırlatmalar kapalı" = "Reminders disabled";
+"Kurulum gerekli" = "Setup needed";
+"Sunucu doğrulaması bekliyor" = "Awaiting server verification";
+"Araştırma ve gizlilik" = "Research and privacy";
+"Kaydediliyor…" = "Saving…";
+"UYGULAMADA DENE · %lld / 8" = "TRY IT IN THE APP · %lld / 8";
+"Sunucu cihaz kaydı tamamlandı" = "Server device registration complete";
+"Yerel hatırlatmalar açık" = "Local reminders enabled";
+"Bildirim kurulumu gerekli" = "Notification setup needed";
+"Yeniden giriş gerekli" = "Sign in again";
+"Kullanım sınırı" = "Usage limit";
+"Hesaplar okunamadı" = "Could not read accounts";
+"Hesap kayıtlı" = "Account saved";
+"Hesap kontrol ediliyor" = "Checking saved account";
+"Hesap seç" = "Select an account";
+"Hesap bağla" = "Connect an account";
+"Son istek tamamlanamadı" = "Last request could not finish";
+"Bildirim kaydı yapılıyor" = "Registering notifications";
+"ChatGPT bağlı" = "ChatGPT connected";
+"Hesabın bu cihazda kayıtlı. Model erişimi analiz başlatıldığında kontrol edilir." = "Your account is saved on this device. Model access is checked when you start an analysis.";
+"Tanıtımla başla" = "Start with the tour";
+"Tanıtıma dön" = "Back to the tour";
+"Firebase kurulumu" = "Firebase setup";
+"Kendi Firebase projenle giriş yap ve eşitlemeyi doğrula." = "Sign in to your own Firebase project and verify sync.";
+"Firebase kurulumunu aç" = "Open Firebase setup";
+"ChatGPT girişini aç" = "Open ChatGPT sign-in";
+"ChatGPT adımına geç" = "Continue to ChatGPT";
+"Kayıtlı hesabı doğrula" = "Verify saved account";
+"Kurulumu buradan açıp Firebase bağlantını doğrula. Bağlantı hazır olduğunda sonraki adıma geçebilirsin." = "Open setup here to verify your Firebase connection. Continue when the connection is ready.";
+"Buradan kendi ChatGPT hesabınla giriş yap. Bağlantı doğrulanınca sosyal profil adımına geçebilirsin." = "Sign in with your own ChatGPT account here. Continue to your social profile once the connection is verified.";
+"Firebase yapılandırmanı seçip hesabınla giriş yap. Mevcut bağlantın doğrulanmışsa devam edebilirsin." = "Choose your Firebase configuration and sign in. You can continue with an existing verified connection.";
+"Adını ve araştırılmasını istediğin hesapları istediğin biçimde yaz. Kullanıcı adı, bağlantı veya kısa açıklama yeterli." = "Write your name and any accounts you want researched in your own words. A username, link or short description is enough.";
+"Örn. Adım Deniz. Insta: @deniz, LinkedIn’im: deniz-yilmaz…" = "E.g. My name is Deniz. Insta: @deniz, LinkedIn: deniz-yilmaz…";
+"Adın ve sosyal profil bilgilerin" = "Your name and social profile information";
+"Yazdığım ad ve hesaplardan açık kaynak araştırması hazırlanmasını onaylıyorum." = "I agree to prepare public web research using the name and accounts I entered.";
+"Profil metnini kısalt veya bağlantı bilgilerini kontrol et." = "Shorten your profile text or check the links.";
+"Firebase yapılandırmasını seç" = "Choose Firebase configuration";
+"Hesaba giriş yap" = "Sign in to your account";
+"Firebase bağlantısını kontrol et" = "Check Firebase connection";
+"Firebase projenin iOS yapılandırmasını içe aktar." = "Import your Firebase project’s iOS configuration.";
+"Bu kullanıcı için Firebase bağlantısı doğrulandı." = "The Firebase connection for this account is verified.";
+"Yapılandırmadan sonra bu Firebase projesindeki hesabınla giriş yap." = "After configuration, sign in with an account in this Firebase project.";
+"Oturum açık; sunucu bağlantısı henüz doğrulanmadı." = "You are signed in. The server connection is awaiting verification.";
+"Kendi Firebase projenle başla." = "Start with your own Firebase project.";
+"Firebase projenin GoogleService-Info.plist dosyasını seç. Ardından o projedeki hesabınla giriş yap." = "Choose your project’s GoogleService-Info.plist, then sign in with your account in that project.";
+"Yazdığım ad ve hesaplarla açık web araştırması başlatılmasını onaylıyorum." = "I agree to start public web research using the name and accounts I entered.";
+"Araştırmayı başlatınca bu alandaki bilgiler kendi ChatGPT hesabın üzerinden OpenAI’a gönderilir. Gizli hesaplar, özel mesajlar ve giriş isteyen içeriklere erişim garanti edilmez. Kullanım hakkın tüketilebilir. Onayı kapatmak yeni araştırmayı durdurur; önceden oluşmuş notları Haritalar’dan yönetebilirsin." = "Starting research sends the information in this field to OpenAI through your ChatGPT account. Access to private accounts, messages or sign-in-only content is not guaranteed. This may use your allowance. Turning consent off prevents future research. Manage existing notes in Maps.";
+"Profil bilgilerin kaydedildi." = "Your profile information was saved.";
+"Kaydet ve araştırmayı başlat" = "Save and start research";
+"dAIly seni tanıyor…" = "dAIly is getting to know you…";
+"Araştırmayı durdur" = "Stop research";
+"Araştırma sonucunu oku" = "Read research results";
+"Profil kaydedildi. Araştırmayı başlatmak için bağlantını kontrol edip yeniden dene." = "Your profile was saved. Check your connection and retry to start research.";
+"Profil bilgilerin hazırlanıyor…" = "Preparing your profile information…";
+"ChatGPT bağlantısı kontrol ediliyor…" = "Checking the ChatGPT connection…";
+"Açık web’de profil eşleşmeleri ve kaynaklar aranıyor…" = "Searching the public web for matching profiles and sources…";
+"Kaynaklı bulgular kendi Firebase alanına kaydediliyor…" = "Saving findings and sources to your Firebase workspace…";
+"Profil araştırması tamamlandı. Kaynakları aşağıda okuyabilirsin." = "Profile research is complete. Read the sources below.";
+"Eşleşmeyi doğrulamak için profil bilgilerine ayrıntı ekle." = "Add more profile details to confirm the match.";
+"Araştırma tamamlanamadı. Erişim ayrıntılarını aşağıda okuyabilirsin." = "Research could not finish. Read the access details below.";
+"Bulunan kaynaklar kaydedildi. Devam etmek için araştırmayı yeniden başlat." = "Sources found so far are saved. Restart research to continue.";
+"Araştırma durduruldu. Aynı bilgilerle yeniden deneyebilirsin." = "Research stopped. You can retry with the same information.";
+"Bekleyen bir günlük analizi var. Önce onun kaydını tamamla, sonra profil araştırmasını yeniden dene." = "A journal analysis is waiting to be saved. Save it first, then retry profile research.";
+
+"Duygular ve emojiler" = "Emotions and emoji";
+"Ajandadaki duygu simgelerin" = "Your calendar mood symbols";
+"Yazma tercihleri" = "Writing preferences";
+"Tema, yazı tipi ve satır aralığı" = "Theme, font and line spacing";
+"Bilgi haritaları" = "Knowledge maps";
+"Duygu haritası" = "Emotion map";
+"Yansıma" = "Reflection";
+"Bu günün duygularını düzelt" = "Correct this day's emotions";
+"Senin seçimin" = "Your selection";
+"Günlükten yorumlandı" = "Interpreted from your journal";
+"Bu gün nasıl hissettin?" = "How did you feel that day?";
+"Birden fazla duygu seçebilirsin. Boş seçim bu günün duygu işaretlerini kaldırır." = "You can select several emotions. An empty selection removes this day's mood markers.";
+"Seçimimi kaydet" = "Save my selection";
+"Duygularımı düzelt" = "Correct my emotions";
+"Analiz sonunda duyguların ajandaya eklenir. Buradaki simge seçimin kaydedilmiş günlere de uygulanır." = "Your emotions appear in the calendar after analysis. Your symbol choices also apply to saved days.";
+"Günlüklerinde bulunan yeni duygular" = "New emotions found in your journals";
+"Geçmiş günlükler" = "Past journals";
+"Kaydedilmiş analizlerin otomatik gösterilir. Ayrıntılı duygu geçişleri eksik günleri ChatGPT hesabınla değerlendirebilirsin. İlerleme her günün ardından kaydedilir." = "Saved analyses appear automatically. Use your ChatGPT account to analyse days missing detailed emotion transitions. Progress is saved after each day.";
+"Geçmiş analizini durdur" = "Stop historical analysis";
+"Eksik duygu geçmişini değerlendir" = "Analyse missing emotion history";
+"Varsayılan emojileri kullan" = "Use default emoji";
+"Duygu görünümü" = "Emotion view";
+"Akış" = "Flow";
+"Alanlar" = "Fields";
+"Döngüler" = "Cycles";
+"Duygu izlerin burada oluşacak" = "Your emotion history will appear here";
+"Günlük analizin tamamlandığında duygu geçişlerin ve kaynak günlerin burada görünür." = "After journal analysis, your emotion transitions and source days appear here.";
+"Olay ve koşulları karşılaştırmak için kaynak günü aç." = "Open a source day to compare events and circumstances.";
+"Farklı günlerde tekrarlanan duygu geçişleri burada birikecek." = "Emotion transitions repeated across days will appear here.";
+"Günlüğü aç" = "Open journal";
+"Modern neon" = "Modern neon";
+"Sade defter" = "Simple notebook";
+"Açık ızgara" = "Light grid";
+"Gece mürekkebi" = "Night ink";
+"Yazma görünümü" = "Writing appearance";
+"Tema" = "Theme";
+"Serif yazı tipi" = "Serif font";
+"Yazı boyutu" = "Font size";
+"Satır aralığı" = "Line spacing";
+"Önizleme" = "Preview";
+"Aklından geçtiği gibi yaz. Günün, düşüncelerin ve hislerin burada birikir." = "Write as thoughts come to you. Your days, thoughts and feelings come together here.";
+"Fotoğraf" = "Photo";
+"Sticker" = "Sticker";
+"Fotoğrafı kaldır" = "Remove photo";
+"Duygu izleri" = "Emotion history";
+"Duygu geçmişimi ve örüntülerimi ekle" = "Include my emotion history and patterns";
+"Neşe" = "Joy";
+"Huzur" = "Calm";
+"Heyecan" = "Excitement";
+"Kaygı" = "Anxiety";
+"Gerilim" = "Tension";
+"Üzüntü" = "Sadness";
+"Öfke" = "Anger";
+"Yalnızlık" = "Loneliness";
+"Umut" = "Hope";
+"Gurur" = "Pride";
+"Yorgunluk" = "Fatigue";
+"Sevinç, keyif ve hoşnutluk" = "Joy, enjoyment and contentment";
+"Sakinlik, güven ve rahatlama" = "Calm, safety and relief";
+"Heves, coşku ve hareketli beklenti" = "Enthusiasm, excitement and anticipation";
+"Belirsizlik ve olası sonuçlarla ilgili endişe" = "Concern about uncertainty and possible outcomes";
+"Baskı, sıkışmışlık ve zorlanma" = "Pressure, feeling constrained and strain";
+"Keder, kırgınlık ve kayıp hissi" = "Sorrow, hurt and a sense of loss";
+"Kızgınlık ve tepki" = "Anger and reaction";
+"Yakınlık veya bağ kurma eksikliği" = "Lack of closeness or connection";
+"Geleceğe yönelik olumlu beklenti" = "Positive expectations for the future";
+"Kendinden veya yaptığından memnuniyet" = "Satisfaction with yourself or what you have done";
+"Bildirilen enerji düşüklüğü ve dinlenme ihtiyacı" = "Reported low energy and need for rest";
+
+"Günün yorumu" = "Daily reflection";
+"Analizin sonucunu gör" = "See analysis results";
+"Analizin sonucu" = "Analysis results";
+"Günün yorumunu gör" = "Read the day's reflection";
+"Günlüğünün soruları hazır" = "Your journal questions are ready";
+"Sorularını görmek için dAIly’yi aç." = "Open dAIly to see your questions.";
+"Hatırlatma" = "Reminder";
+"Ayrıntıları görmek için dAIly’yi aç." = "Open dAIly for the reminder details.";
+"Takip sorusu" = "Follow-up question";
+"Soruyu görmek için dAIly’yi aç." = "Open dAIly to see your question.";
+"Günün önerisi" = "Today's suggestion";
+"Öneriyi görmek için dAIly’yi aç." = "Open dAIly to see your suggestion.";
+"Yorum ve tavsiyeler" = "Reflection and advice";
+"Önceki yorum" = "Previous reflection";
+"Tavsiyeler" = "Advice";
+"Duygu geçişlerini gör" = "See emotional transitions";
+"Bildirimleri aç" = "Enable notifications";
+"iPhone Ayarlarını aç" = "Open iPhone Settings";
+"Şimdi değil" = "Not now";
+"Ajanda hatırlatmalarını bu iPhone’da almak için bildirimlere izin ver." = "Allow notifications to receive agenda reminders on this iPhone.";
+"Kilit ekranında günlüğün ve yanıtların gösterilmez. Otomatik takip bildirimleri 08.00–22.00 arasında gelir; ajanda hatırlatmaları seçtiğin saati kullanır." = "Your journal and answers stay off the lock screen. Automatic follow-ups arrive between 08:00 and 22:00. Agenda reminders use the time you choose.";
+"Bu saat ve 22.00–08.00 sessiz saatleri otomatik takip bildirimleri içindir. Ajanda hatırlatmaları ayarladığın saatte gelir." = "This time and the 22:00–08:00 quiet hours apply to automatic follow-ups. Agenda reminders arrive at the time you set.";
+"Kırmızı bağlar yeni eklenenleri gösterir. Notların çevresindeki renkler ilgili duyguları yansıtır. Yüzme notuna dokun." = "Red connections are new. Colors around notes represent related emotions. Tap the Swimming note.";
+"Ajandada bir gün açıp duygu geçişlerine bakabilirsin. Örnek akıştan bir olaya dokunup günlükteki ifadeyi aç." = "Open a day in the agenda to see emotional transitions. Tap a sample event to read the journal excerpt.";
+"Yeni not ekle" = "Add a new note";
+"Notuna devam et" = "Continue your note";
+"Ayrı not olarak sakla" = "Keep as a separate note";
+"Günlük değişti. Düzenleme taslağın korunuyor." = "The journal changed. Your edit is saved as a draft.";
+"Notu ekle" = "Add note";
+"Günlüğü düzenle" = "Edit journal";
+"Değişiklikleri uygula" = "Apply changes";
+"Bu günün yorumu analiz tamamlandığında burada görünür." = "Your reflection will appear here after this day's analysis.";
+"Haritanda neler değişti?" = "What changed in your maps?";
+"Harita gezisini kapat" = "Close map walkthrough";
+"Önceki değişiklik" = "Previous change";
+"Sonraki değişiklik" = "Next change";
+"Duraklat" = "Pause";
+"Oynat" = "Play";
+"Haritalara dön" = "Return to maps";
+"Yeni düşünce" = "New thought";
+"Güncellenen düşünce" = "Updated thought";
+"Yeni bağlantı" = "New connection";
+"Güncellenen bağlantı" = "Updated connection";
+"Bu günün kaydını, aktivitelerini ve yorumunu açar" = "Opens this day's journal, activities and reflection";
+
+"Kaydedilen sonucu yeniden aç" = "Reopen the saved result";
+
+"İşlem onayın doğrudan uygulanır." = "Your action decision is applied directly.";
+
+"Yanıtını kaydeder ve işlem onayını uygular" = "Saves your answer and applies your action decision";
+
+"Evet seçip Yanıtla’ya dokunduğunda bu hatırlatma doğrudan kaydedilir. Hayır seçersen oluşturulmaz." = "Choosing Yes and tapping Reply saves this reminder directly. Choosing No does not create it.";
+
+"Bu cihazda başla" = "Start on this device";
+
+"Günlüklerin ve haritaların cihazında saklanır. Analiz için kendi AI hesabını bağlarsın." = "Your journals and maps stay on your device. Connect your own AI account for analysis.";
+
+"Google ile Firebase bağla" = "Connect Firebase with Google";
+
+"İsteğe bağlı: Bilgisayarla ortak kullanmak için kendi veritabanını oluştur veya seç." = "Optional: create or select your own database to use with your computer.";
+
+"Mevcut Firebase hesabıma giriş yap" = "Sign in to my existing Firebase account";
+
+"Mevcut Firebase hesabına giriş yap" = "Sign in to your existing Firebase account";
+
+"Kendi alanın." = "Your own space.";
+
+"Günlüklerin ve haritaların cihazında. Firebase, farklı cihazlarını eşitlemek için isteğe bağlıdır." = "Your journals and maps are on your device. Firebase is optional for syncing across devices.";
+
+"Cihazda kayıt" = "On-device storage";
+
+"Yazıların, yanıtların, ajandan ve haritaların Firebase olmadan da kaydedilir. AI analizi için internet ve kendi AI hesabın gerekir." = "Your writing, answers, schedule and maps are saved without Firebase. AI analysis needs internet and your own AI account.";
+
+"Bilgisayarla ortak kullanmak istersen Google hesabınla giriş yap. Kendi projeni seç veya yeni bir proje oluştur; dosya indirmen gerekmez." = "Sign in with Google to use your data with your computer. Select your own project or create a new one; no configuration download is needed.";
+
+"Google ile bağlan" = "Connect with Google";
+
+"Şimdi eşitle" = "Sync now";
+
+"Yalnız bu cihazda devam et" = "Continue on this device only";
+
+"Geliştirici ayarları" = "Developer settings";
+
+"Mevcut bir geliştirici yapılandırmasını kullanıyorsan iOS bağlantı dosyanı buradan aktarabilirsin. Normal Google bağlantısında bu adım gerekmez." = "Import an existing developer iOS configuration here. This step is not needed for the normal Google connection.";
+
+"Geliştirici yapılandırmasını içe aktar" = "Import developer configuration";
+
+"ChatGPT'ye kendi hesabınla giriş yap. Modelini ve düşünme seviyesini seç; kullanım hakkı o hesaba aittir." = "Sign in to ChatGPT with your own account. Choose your model and reasoning level; usage belongs to that account.";
+
+"ChatGPT bağlantısını aç" = "Open ChatGPT connection";
+
+"Bildirim ayarları" = "Notification settings";
+
+"Örnek verilerle dene" = "Try sample data";
+
+"Cihazdaki diğer çalışma alanları" = "Other workspaces on this device";
+
+"Alanlar ayrı saklanır. Başka bir alanı açmak mevcut kayıtlarını silmez." = "Workspaces are stored separately. Opening another workspace does not delete your existing records.";
+
+"İsteğe bağlı eşitleme" = "Optional sync";
+
+"Kendi veritabanın." = "Your own database.";
+
+"Google hesabınla kendi Firebase projenin kontrolü sende kalır. Günlüklerini kullanmak için bu kurulumu yapmak zorunda değilsin." = "Your own Firebase project stays under your Google account. This setup is not required to use your journals.";
+
+"Google ile giriş yap" = "Sign in with Google";
+
+"Bu cihazdaki kayıtları boş çalışma alanına aktar" = "Transfer this device’s records to an empty workspace";
+
+"Dolu bir çalışma alanına yerel kayıtlar otomatik karıştırılmaz. Cihazdaki önceki alanın korunur; Ayarlar'dan tekrar açabilirsin." = "Local records are not automatically merged into a populated workspace. Your previous device workspace is preserved and can be reopened in Settings.";
+
+"Mevcut projen" = "Your existing project";
+
+"Yeni Firebase projesi oluştur" = "Create a new Firebase project";
+
+"Proje adı" = "Project name";
+
+"Veritabanı konumu" = "Database location";
+
+"Avrupa" = "Europe";
+
+"Amerika" = "United States";
+
+"Proje Google hesabında oluşturulur. Faturalandırma hesabı bağlanmaz; Google'ın ücretsiz kotaları ve proje oluşturma izinleri geçerlidir." = "The project is created in your Google account. No billing account is attached. Google’s free quotas and project creation permissions apply.";
+
+"Kendi projemi oluştur ve bağla" = "Create and connect my project";
+
+"Google, proje oluşturmak ve seçtiğin Firestore alanına yazmak için bulut izni ister. dAIly verilerini yalnız seçtiğin projedeki kendi kullanıcı alanına kaydeder." = "Google asks for cloud permission to create a project and write to your selected Firestore workspace. dAIly saves your data only in your own user area within the selected project.";
+
+"Google'da uygulama izinlerini yönet" = "Manage app permissions in Google";
+
+"Google bağlantısı" = "Google connection";
+
+"Bu cihazdaki alanın" = "Your device workspace";
+
+"Cihazda kayıt açık" = "On-device storage enabled";
+
+"Bu cihazda · isteğe bağlı" = "On this device · optional";
+
+"Eşitleme bekliyor" = "Sync pending";
+
+"İsteğe bağlı" = "Optional";
+
+"İstersen cihazlarını eşitle." = "Sync your devices if you like.";
+
+"Firebase zorunlu değil. Bilgisayarla ortak kullanmak istersen Google hesabınla kendi projeni seç veya oluştur. İstersen yalnız bu cihazda devam et." = "Firebase is optional. To share data with your computer, use Google to select or create your own project. You can continue on this device only.";
+
+"Google hesabınla kendi Firebase projeni seç veya oluştur. İstersen bu adımı geçip cihazda devam et." = "Use Google to select or create your own Firebase project. You can skip this step and continue on your device.";
+
+"Bulut sürümünü aç; cihaz sürümünü ayrı koru" = "Open the cloud version; keep a separate device copy";
+
+"Bulut sürümü açılsın mı?" = "Open the cloud version?";
+
+"Cihaz kopyasını koru ve bulut sürümünü aç" = "Keep a device copy and open the cloud version";
+
+"Cihazındaki sürüm ayrı bir yerel çalışma alanına kaydedilir. Bekleyen değişiklikleri buluta yazmadan buluttaki sürüm açılır. Yerel kopyanı aşağıdaki çalışma alanlarından tekrar açabilirsin." = "Your device version will be saved as a separate local workspace. The cloud version will open without publishing pending changes. You can reopen the local copy from the workspaces below.";
+
+"Kayıtların bu cihazda" = "Your records are on this device";
+
+"Kendi Firebase projen bağlı" = "Your Firebase project is connected";
+
+"Eşitleme ayarları" = "Sync settings";
+
+"Bekleyen eşitleme: %lld" = "Pending sync: %lld";
+
+"Cihazda saklanan önceki Firebase kurulumunu aç" = "Open the previous Firebase setup stored on this device";
+
+"Telefon ve masaüstünü eşitlemek için aynı Firebase projesini kullan. Google hesabınla kendi projeni oluşturabilir veya mevcut projeni seçebilirsin. İstersen kayıtların yalnız bu cihazda kalır." = "Use the same Firebase project to sync your phone and desktop. Sign in with Google to create your own project or select an existing one. You can also keep your records on this device only.";
+
+"Ajandada plan sayısının altında duygu emojileri görünür. Günün yansıması ve ilgili geçmiş günler otomatik hazırlanır. Kendi duygu seçimin AI yorumundan ayrı tutulur." = "Emotion emojis appear below the plan count in your calendar. Daily reflections and relevant earlier days are prepared automatically. Your own emotion choices are kept separate from the AI interpretation.";
+
+"Günün duyguları da burada." = "See how you felt that day.";
+
+"Duygularının akışını keşfet." = "Explore how your feelings changed.";
+
+"Haritalar’da duygu geçişlerini, alanlarını ve tekrar eden döngüleri incele. Örnek akışı kaydırıp bir nota dokun. Emojilerini Ayarlar’dan değiştirebilirsin." = "In Maps, explore changes in your feelings, emotion groups and recurring cycles. Swipe through the sample flow and tap a note. You can change your emojis in Settings.";
+
+"Duygu izlerini gör" = "See emotion traces";
+
+"Duygu haritasına geç" = "Open the emotion map";
+
+"DUYGU İZLERİNİ GÖR" = "SEE EMOTION TRACES";
+
+"DUYGU AKIŞINI KEŞFET" = "EXPLORE EMOTION FLOW";
+
+"Örnek duygu verileri" = "Sample emotion data";
+
+"Duygu haritan" = "Your emotion map";
+
+"Duygu izlerin" = "Your emotion traces";
+
+"Günlüğündeki anlatım sırasıyla." = "In the order described in your journal.";
+
+"Notlara dokunarak o günün yansımasını oku." = "Tap a note to read the reflection for that day.";
+
+"Emojilerini Ayarlar → Duygular ve emojiler bölümünden seçebilirsin." = "Choose your emojis in Settings → Emotions and emojis.";
+
+"Günlükten yorumlandı · Örnek" = "Interpreted from the journal · Sample";
+
+"Google hesabınla Firebase projenin bağlantısını aç. Kayıtlarını yalnız cihazda saklamak istersen doğrudan devam et." = "Connect your Firebase project with Google. Continue directly if you want your records to stay on this device.";
+
+"Salı ve perşembe 18.00’de yüzmek istiyorum. Düzenli hareket etmek bana iyi geliyor. İşten sonra kendime zaman ayırmak istiyorum. Bugün işte gerildim; yüzdükten sonra rahatladım. Akşam biraz yorgundum." = "I want to swim at 6 pm on Tuesdays and Thursdays. Regular exercise helps me feel better. I want to make time for myself after work. I felt tense at work today, then relieved after swimming. I was a little tired in the evening.";
+
+"UYGULAMADA DENE · %lld / %lld" = "TRY IT IN THE APP · %lld / %lld";
+
+"Masaüstüyle eşitlemek için orada kullandığın Firebase projesini Google hesabınla seç. Ayrıca yeni bir proje oluşturabilir veya kayıtlarını yalnız bu cihazda saklayabilirsin." = "To sync with desktop, use Google to select the Firebase project already connected there. You can also create a new project or keep your records on this device only.";
+"AI seni tanıyarak başlasın." = "Let AI start with your context.";
+"Zihinsel ve duygusal haritalarını, notların ve bağlantılarınla bir dosyaya dönüştür. Yeni bir görevde kendini baştan anlatman gerekmesin." = "Turn your mental and emotional maps, notes and connections into one file. Start a new task without introducing yourself all over again.";
+"Ne için kullanacaksın?" = "What will you use it for?";
+"Örneğin: Konuşma tarzıma uygun bir yazı hazırlamak." = "For example: Write something in my own voice.";
+"Konuşma tarzıma uygun bir yazı hazırlamak." = "Write something in my own voice.";
+"Yapmak istediğin işi buraya yaz. Dosyanın başlangıç yönergesi, AI'ın haritalarındaki ilgili bilgileri bu görev için kullanmasını anlatır. Boş bırakırsan genel bir kişisel bağlam hazırlanır." = "Describe your task here. The file's opening instructions tell the AI to use the relevant parts of your maps for this task. Leave it blank for general personal context.";
+"Bağlam dosyamı hazırla" = "Prepare my context file";
+"Haritaların dosyaya hazırlanıyor…" = "Preparing your maps for export…";
+"Dosyanın içeriği ve gizliliği" = "File contents and privacy";
+"Cihazındaki son eşitlenmiş haritalar kullanılır. Dosya kendiliğinden güncellenmez; yeni kayıtların için yeniden oluştur. Dosya, AI için başlangıç bağlamıdır; model eğitimi veya kalıcı hafıza değildir." = "Uses the latest maps saved on this device. The file does not update automatically; export again to include new entries. This is starting context for AI, not model training or permanent memory.";
+"Dosyanı kaydet." = "Save your file.";
+"Haritaların ve kullanım amacın tek bir kişisel bağlam dosyasında hazırlanır." = "Your maps and intended use are prepared in one personal context file.";
+"Görevi vermeden önce yükle." = "Upload it before giving the task.";
+"Dosyayı ChatGPT'ye veya kullanacağın AI aracına ekle. Dosya yükleyemiyorsan içeriğini ilk mesaja yapıştır." = "Attach it to ChatGPT or your chosen AI tool. If file uploads are unavailable, paste its contents into the first message.";
+"Sonra görevini yaz." = "Then describe your task.";
+"“Bu dosyayı kişisel bağlamım olarak kullan; yalnız bu işle ilgili bilgileri değerlendir.” diyerek istediğin işi ver." = "Give your task with: “Use this file as my personal context; consider only the information relevant to this task.”";
+"Önce dosyanı yükle, sonra görevini ver." = "Upload your file first, then give your task.";
+"Ne yaptıracağını yaz; haritaların kişisel bağlam dosyana eklensin. Dosyayı ChatGPT'ye veya başka bir AI aracına yükle, ardından görevini yaz. AI, işle ilgili notlarından seni tanıyarak başlasın." = "Describe what you want to do and include your maps in a personal context file. Upload it to ChatGPT or another AI tool, then give your task. Let AI start with the relevant context about you.";
+"Zihin haritaların + kullanım amacın" = "Your mind maps + intended use";
+"Bugün ekranındaki Daily butonu, seçtiğin model ve düşünme seviyesiyle analiz başlatır." = "The Daily button on Today starts analysis with your chosen model and reasoning level.";
+"Hesabı değiştir veya yönet" = "Switch or manage accounts";
+"Bağlantı yardımı" = "Connection help";
+"Bu cihazda saklanan bağlantılarını buradan değiştirebilirsin." = "Manage the connections saved on this device.";
+"Kayıtlı bağlantı %lld" = "Saved connection %lld";
+"Bu hesaba geç" = "Switch to this account";
+"Yeniden giriş yap" = "Sign in again";
+"Hesap yönetimi" = "Account management";
+"Seçili bağlantı kaldırılsın mı?" = "Remove the selected connection?";
+"Bağlantıyı kaldır" = "Remove connection";
+"Cihazların birlikte çalışsın." = "Keep your devices together.";
+"Telefon ve bilgisayarda aynı haritaları kullanmak için kendi Google hesabınla bir veritabanı bağla. İstersen yalnız cihazında da devam edebilirsin." = "Connect a database with your own Google account to use the same maps on your phone and computer. You can also keep everything on this device.";
+"Google hesabını değiştir" = "Switch Google account";
+"Yeni kişisel veritabanı" = "New personal database";
+"Kayıt aktarımı ve konum" = "Record transfer and location";
+"Veritabanımı oluştur ve bağla" = "Create and connect my database";
+"Mevcut cihaz kayıtların korunur. Aktarım seçmezsen yeni alan ayrı açılır." = "Existing device records are preserved. Without a transfer, the new workspace opens separately.";
+"Google izinleri hakkında" = "About Google permissions";
+
+"Sıfırla" = "Reset";
+"Verilerin" = "Your data";
+"Günlükler dahil bütün çalışma alanını temizle" = "Clear the entire workspace, including journals";
+"Temiz bir başlangıç." = "A fresh start.";
+"Bu çalışma alanındaki günlüklerin, taslakların, analizlerin, zihin haritaların, soruların, sosyal profil bilgilerin ve hatırlatmaların silinir." = "Deletes this workspace’s journals, drafts, analyses, mind maps, questions, social profile information, and reminders.";
+"Bu cihazdaki ve bağlı Firebase alanındaki kayıtlar silinir. Diğer cihazlarda dAIly'yi kapat; eski yerel kayıtları yeniden yükleme." = "Deletes records on this device and in the connected Firebase workspace. Close dAIly on other devices and do not upload their old local records.";
+"Bu cihazdaki çalışma alanın sıfırlanır." = "Resets the workspace on this device.";
+"Bu alanın Firebase bağlantısı kapalı. Buluttaki kayıtların geri gelmemesi için önce aynı Firebase alanını yeniden bağla." = "Cloud sync is paused for this workspace. Reconnect the same Firebase workspace first to prevent old cloud records from returning.";
+"ChatGPT ve Google girişlerin ile görünüm tercihlerin korunur. Başka çalışma alanları silinmez." = "Keeps your ChatGPT and Google sign-ins and appearance preferences. Other workspaces are not deleted.";
+"Sıfırlama yarıda kaldı. Tamamlanana kadar kayıt ve eşitleme durduruldu." = "The reset was interrupted. Saving and syncing are paused until it finishes.";
+"Verilerin temizleniyor…" = "Clearing your data…";
+"Sıfırlamayı tamamla" = "Finish reset";
+"Bütün verileri sıfırla" = "Reset all data";
+"Devam eden işlemin tamamlanmasını bekle." = "Wait for the current operation to finish.";
+"Bütün verilerin silinsin mi?" = "Delete all your data?";
+"SIFIRLA yaz" = "Type SIFIRLA";
+"Kalıcı olarak sil" = "Delete permanently";
+"Bu işlem geri alınamaz. Onaylamak için SIFIRLA yaz." = "This cannot be undone. Type SIFIRLA to confirm.";
+"Sonraki analiz değişiklikleri" = "Changes from the next analysis";
+"Çalışma alanın sıfırlanıyor…" = "Resetting your workspace…";
+"Günlüklerin, haritaların, analizlerin, soruların ve hatırlatmaların sıfırlandı." = "Your journals, maps, analyses, questions, and reminders have been reset.";
+
+"Günün yansımasını aç" = "Open the day’s reflection";
+"Sonrasında" = "Afterwards";
+"Aynı anda" = "At the same time";
+"Zaman sırası belirtilmedi" = "Time order not stated";
+"Enerji" = "Energy";
+"Bu günün duygu işaretlerini kaldırdın." = "You removed this day’s emotion markers.";
+"Bu gözlemi düzelt" = "Correct this observation";
+"Yoğunluk belirtilmedi" = "Intensity not stated";
+"Bu olayın duygu işaretleri kaldırıldı." = "The emotion markers for this event were removed.";
+"AI'ın ilk yorumu: %@" = "Original AI interpretation: %@";
+"Düzelteceğin gözlem" = "Observation to correct";
+"Gözlem" = "Observation";
+"Günlükteki ifade" = "Your journal wording";
+"Bu anda nasıl hissettin?" = "How did you feel at this moment?";
+"Yalnız bu gözlem değişir. Diğer olaylar ve zaman sırası korunur. Boş seçim bu gözlemin işaretini kaldırır." = "Only this observation changes. Other events and their order are preserved. An empty selection removes this observation’s marker.";
+"Duygu gözlemini düzelt" = "Correct an emotion observation";
+"Kayıtlı duygu bağların açılıyor…" = "Opening your saved emotion connections…";
+"%lld benzer kayıt · %lld farklı sonuç" = "%lld similar entries · %lld different outcomes";
+"Farklı sonuçlanan günler" = "Days with different outcomes";
+"Kaynak günlerde aynı deneyim bağlamı ve anlatılan sıra karşılaştırıldı. Bu bir neden-sonuç hükmü değildir." = "The experience context and stated order were compared across the source days. This is not a conclusion about causation.";
+"Kaynaklı ve sırası belli benzer deneyimler farklı günlerde tekrarlandığında burada görünür." = "Similar grounded experiences with a stated order appear here when they recur on different days.";
+"Yaşam alanı" = "Life area";
+"Duygu bağları haritalarına işlenecek" = "Emotion connections will appear in your maps";
+"Günlüklerdeki alıntılar gerçek harita notlarıyla eşleştiğinde yaşam alanların burada açılır." = "Life areas appear here when journal quotations match real map notes.";
+"Renkler, bu düğümlerdeki kaynaklı duygu izlerini gösterir." = "Colours show the grounded emotional traces on these nodes.";
+"Bu düğümde eşleşen duygu alıntısı yok." = "This node has no matching emotion quotation.";
+"Daha önce iyi geldiğini söylediklerin" = "What you said helped before";
+"Senin seçimlerin ve AI yorumları" = "Your choices and AI interpretations";
+"%@ bağlamında başka bir kaynak gün. Hislerin ve sonuçların aynı olduğunu varsaymadan karşılaştır." = "Another source day involving %@. Compare without assuming the feelings or outcomes were the same.";
+"Rahatlama" = "Relief";
+"Sakinlik ve güven" = "Calm and reassurance";
+"Gerilim veya yük sonrasında gelen ferahlama" = "Relief following tension or a burden";
+
+"AI: %lld / 5" = "AI: %lld / 5";
+
+"Google ile giriş yap ve oluştur" = "Sign in with Google and create";
+
+"Bağlantı adını düzenle" = "Rename connection";
+
+"Bağlantı adı" = "Connection name";
+
+"Örneğin: Kişisel hesabım" = "For example: Personal account";
+
+"Aynı hesabına yeniden giriş yaptığında mevcut bağlantın yenilenir; ikinci bir hesap satırı oluşturulmaz." = "Signing in to the same account updates its existing connection instead of adding another account.";
+
+"Google ile silme yetkisini doğrula ve tekrar dene" = "Verify deletion permission with Google and retry";
+
+"Sıfırlanacak alan değişmez. Seçtiğin Google hesabının bu Firebase projesini yönetme yetkisi doğrulanır." = "The workspace being reset stays the same. Your selected Google account must have permission to manage this Firebase project.";
+
+"Sıfırlama hazırlanıyor…" = "Preparing reset…";
+
+"Google hesabının proje yetkisi doğrulanıyor…" = "Checking your Google account’s project permission…";
+
+"Bulut kayıtların ve eski sürümleri temizleniyor…" = "Deleting cloud records and their previous versions…";
+
+"Yerel çalışma alanın temizleniyor…" = "Clearing your local workspace…";
+
+"Cihazdaki taslaklar, analizler ve önbellek temizleniyor…" = "Clearing drafts, analyses and cache on this device…";
+
+"Tamamlandı" = "Completed";
+
+"Yeni bağlantılar oluştu. Eklenen notları üzerlerine dokunarak görebilirsin." = "New connections have formed. Tap the notes to read them.";
+"Bağlantıların güncellendi. Notları üzerlerine dokunarak inceleyebilirsin." = "Your connections have changed. Tap the notes to explore them.";
+"Yeni notlar eklendi. İncelemek için üzerlerine dokun." = "New notes were added. Tap them to read.";
+"Notların güncellendi. İncelemek için üzerlerine dokun." = "Your notes have changed. Tap them to read.";
+"Not" = "Note";
+"Not açılıyor…" = "Opening note…";
+"Haritada göster" = "Show on map";
+"Düzelt" = "Edit";
+"Notun tamamı yüklenemedi; önizlemesi gösteriliyor." = "The complete note could not be loaded; showing its preview.";
+"Onayı uygula" = "Apply choice";
+"Evet veya Hayır seçip onayını uygula; yeni AI analizi başlamaz." = "Choose Yes or No and apply it; this does not start a new AI analysis.";
+"İstediğin soruları yanıtla. Hazır olduğunda üstteki Daily butonuna dokun." = "Answer whichever questions you want. Tap the Daily button above when ready.";
+"Cevapların bu cihazda taslak olarak korunur. Daily butonuna dokunduğunda birlikte değerlendirilir; bütün soruları yanıtlaman gerekmez." = "Your answers stay as drafts on this device. Tap Daily to analyze them together; you do not have to answer everything.";
+"Günlük yanıtı biçim düzeltmesi" = "Journal response format repair";
+"Görev yanıtı biçim düzeltmesi" = "Task response format repair";
+"Yanıtın biçimi düzeltiliyor; önceki aşamalar korunuyor…" = "Fixing the response format; earlier stages are preserved…";
+
+"Cihazdaki taslak" = "Draft on this device";
+
+"Tekrarlanan deneyimler" = "Recurring experiences";
+"Önceki günler" = "Previous days";
+"Tüm alanlar" = "All areas";
+"Yaşam alanları yüklenemedi." = "Life areas could not be loaded.";
+"Haritalar’da önce günün yorumunu ve duygu geçişini görürsün. Örnek akışta bir olaya dokunup günlükteki ifadeyi aç." = "In Maps, start with the day’s reflection and emotional transition. Tap an event in the sample to read the journal excerpt.";
+"Haritada gör" = "View on map";
+"ChatGPT hesabına geç" = "Continue to ChatGPT";
+"ChatGPT hesabını bağla" = "Connect your ChatGPT account";
+"Örneği geç" = "Skip example";
+"Günlükten çıkan duygu yorumlarını ve kendi seçimlerini görebilirsin. Benzer eski günler varsa tarihleri de görünür." = "See interpretations from your journal and the emotions you selected. Related past days appear with their dates.";
+"Dosyayı önce kullanacağın AI aracına yükle. Ardından görevini yaz ki araç, seninle ilgili gerekli bilgileri dosyadan seçebilsin." = "Upload the file to the AI tool first. Then write your task so it can use the relevant details about you.";
+"İpucunu kapat" = "Dismiss tip";
+
+"Haritalarda ve notlarda ara" = "Search maps and notes";
+"Eşleşen harita veya not bulunamadı." = "No matching maps or notes.";
+"Bazı harita sayfaları okunamadı. Arama cihazda açılabilen kayıtları gösteriyor." = "Some map pages couldn't be read. Search shows the records available on this device.";
+"Haritalarda aranıyor…" = "Searching maps…";
+
+"Taslak okunamadı" = "The draft could not be read";
+"Taslağı yeniden oku" = "Retry reading the draft";
+"Firebase’e eşitlendi" = "Synced to Firebase";
+"Bu cihazda kayıtlı" = "Saved on this device";
+"Taslak diske yazılamadı. Yeniden dene." = "The draft could not be saved. Try again.";
+
+"Bu iş için" = "For this task";
+"Tüm haritam" = "My complete map";
+"Haritalarını bir bağlam dosyasına dönüştür, görevi vermeden önce kullandığın AI aracına yükle." = "Turn your maps into a context file and upload it to your AI tool before assigning a task.";
+"Dosya, seçtiğin notlardan kaynak alıntıları ve aralarındaki bağlantıları içerir. Tam günlük metinleri ve giriş anahtarları dosyaya eklenmez." = "The file contains quotes from your selected notes and the links between them. Full journal entries and sign-in credentials stay out of the file.";
+"Dosya kapsamı" = "File scope";
+"dAIly görevindeki sözcüklerden ilgili notları önerir. Dosyayı oluşturmadan önce seçimini düzenleyebilirsin." = "dAIly suggests relevant notes based on the words in your task. Review your selection before creating the file.";
+"Tüm harita notlarını ve bağlantılarını tek dosyada alabilirsin." = "Get all map notes and connections in one file.";
+"İlgili notları önizle" = "Preview relevant notes";
+"Dosyaya eklenecek notlar" = "Notes for your file";
+"Öneri bulunamadı. Dosyanda kullanmak istediğin notları seç." = "No suggestions found. Choose the notes to include in your file.";
+"%lld not seçili" = "%lld notes selected";
+"Kapsamı değiştir" = "Edit scope";
+"Haritadaki tüm notları ekle" = "Include all notes from this map";
+"Haritadaki notları çıkar" = "Remove notes from this map";
+"Bu çıkarım dayandığı notlarla birlikte paylaşılır." = "This inference is shared with its supporting notes.";
+"Kaynak alıntıları (%lld)" = "Source quotes (%lld)";
+"Duygu geçmişi (%lld gün)" = "Emotion history (%lld days)";
+
+"%lld yeni not" = "%lld new notes";
+"%lld not güncellendi" = "%lld notes updated";
+"%lld bağlantı değişti" = "%lld connections changed";
+"Notları açmak için üzerlerine dokun." = "Tap a note to open it.";
+"Soruları geç ve yorumu oku" = "Skip questions and read the reflection";
+"Günün yorumu sorulardan sonra hazır." = "Your daily reflection follows the questions.";
+"Harita %lld / %lld" = "Map %lld / %lld";
+"%lld yeni bağlantı" = "%lld new links";
+"Senin düzeltmen" = "Your correction";
+"AI çıkarımı" = "AI inference";
+"AI gözlemi" = "AI observation";
+"Kaynak: %@" = "Source: %@";
+"Günlüğünden alıntı" = "Quote from your journal";
+"Notun tamamı yüklenemedi. Kayıtlı önizleme gösteriliyor." = "The full note could not be loaded. Showing the saved preview.";
+"Notu yeniden yükle" = "Reload note";
+"Yeni not · %@" = "New note · %@";
+"Güncellenen not · %@" = "Updated note · %@";
+"Yeni bağlantı · %@" = "New link · %@";
+"Güncellenen bağlantı · %@" = "Updated link · %@";
+"Son güncellenen not · %@" = "Last updated note · %@";
+"Harita bütünlüğü" = "Map integrity";
+"Bu iPhone’da iptal edilecek dAIly alarmı: %lld." = "dAIly alarms to cancel on this iPhone: %lld.";
+"Bu iPhone’daki dAIly alarmları okunamadı. Sıfırlama sırasında tekrar kontrol edilecek." = "The dAIly alarms on this iPhone could not be read. They will be checked again during reset.";
+"Çalışma alanı: %@" = "Workspace: %@";
+"Apple Takvim’e ve Anımsatıcılar’a aktardığın kayıtlar bu uygulamalarda kalır." = "Items you exported to Apple Calendar and Reminders stay in those apps.";
+"Çalışma alanının iPhone alarmları kaldırılamadı. Tekrar dene." = "The iPhone alarms for this workspace could not be removed. Try again.";
+"Bu hatırlatmayı Apple’a aktarmak için Firebase bildirim servisinin etkinlik bazlı teslimatı desteklemesi gerekiyor." = "To move this reminder to Apple, the Firebase notification service needs to support per-event delivery.";
+"Bu çalışma alanının iPhone alarmları ve bildirimleri kaldırılıyor…" = "Removing iPhone alarms and notifications for this workspace…";
+"Günlüklerin, haritaların, analizlerin, soruların ve hatırlatmaların sıfırlandı. Kaldırılan iPhone alarmı: %lld." = "Your journals, maps, analyses, questions and reminders have been reset. iPhone alarms removed: %lld.";
+"Bu hatırlatmanın sunucu kaydı bağlantı kurulunca yeniden eşitlenecek." = "The server setting for this reminder will sync again when connected.";
+"Bu cihazda Apple’a aktarılmış hatırlatmalar var. Bildirim servisi etkinlik bazlı teslimatı destekleyene kadar aynı hatırlatma iki kez gelebilir." = "This device has reminders exported to Apple. Until the notification service supports per-event delivery, a reminder may arrive twice.";
+"İlerideki Apple hatırlatmalarının iki kez gelmesini önlemek için sunucu kaydı bekliyor. Firebase bildirim servisi güncellendiğinde “Bildirim kaydını yeniden dene”ye dokun." = "Server registration is on hold to avoid duplicate alerts for upcoming Apple reminders. After the Firebase notification service is updated, tap Retry notification registration.";
+"Akşam notunu aynı güne eklemeyi dene. Sorular ekranında yazılı yanıtlarını Daily logosuyla birlikte gönder. Yorum hazır olunca açılır ve burada saklanır." = "Try adding an evening note to the same day. Tap the Daily logo to submit your written answers together. Once your reflection is ready, you can reread it here.";
+"Yüzmenin sana iyi geldiğini ve yeniden gitmek istediğini yazdığını düşün. Bu örnekle ilerleyelim." = "Imagine writing that swimming helped you unwind and you want to go again. Let’s try it with this sample.";
+"Gerçek günlükte bu logo yazını kaydeder ve analizi başlatır. Şimdi yüzme örneğinde dene." = "In your journal, this logo saves your entry and starts the analysis. Try it with the swimming example.";
+"Salı günü yüzmeden önce haber almak ister misin? Seçimini uygula, ardından Ajanda’da sonucunu gör." = "Would you like a reminder before your Tuesday swim? Apply your choice to see it in the agenda.";
+"KAYITLI GÜNÜN" = "YOUR SAVED DAY";
+"Aynı güne geri dön." = "Come back to the same day.";
+"Bugün’e dön" = "Return to Today";
+"Bir olaya dokunarak günlükteki cümleyi oku." = "Tap an event to read the words from your journal.";
+"Örnek salı" = "Sample Tuesday";
+"Akşam çantamı hazırladım. Perşembe yeniden yüzmeye gideceğim." = "I packed my bag this evening. I’ll go swimming again on Thursday.";
+"Örnek not güne eklendi." = "Sample note added to the day.";
+"Düzenli hareket → Yüzme" = "Regular movement → Swimming";
+"18.00 · Yüzme" = "6:00 pm · Swimming";
+"17.30 · Yüzme hatırlatması" = "5:30 pm · Swimming reminder";
+"İşte gerildiğini, yüzdükten sonra rahatladığını yazmışsın. Akşam hâlâ biraz yorgun olman, yüzmenin sana iyi geldiği o anı silmiyor." = "You wrote that work left you tense and that you felt relieved after swimming. You were still a little tired that evening, and the swim gave you a moment of relief.";
+"Bir sonraki yüzme gününde eve dönerken nasıl hissettiğini not etmek ister misin?" = "After your next swim, would you like to jot down how you feel on the way home?";
+"%lld yeni not · %lld yeni bağlantı" = "%lld new notes · %lld new connections";
+"Analiz için kendi ChatGPT hesabını bağla. Günlüklerin cihazında saklanabilir. Masaüstüyle eşitlemek istersen Ayarlar’dan Firebase’i bağlayabilirsin." = "Connect your own ChatGPT account for analysis. You can keep entries on this device or connect Firebase in Settings to sync with your desktop.";
+"Bu günlükte “%@” ile “%@” arasında bir bağ oluştu." = "This entry connected “%1$@” and “%2$@”.";
+"Bağlı notu aç" = "Open linked note";
+"Alarmı kaldır · %@" = "Remove alarm · %@";
+"iPhone alarmı kur · %@" = "Set iPhone alarm · %@";
+"Takvim’e ekle" = "Add to Calendar";
+"Anımsatıcılar’a ekle" = "Add to Reminders";
+"Apple’a ekle" = "Add to Apple apps";
+"iPhone alarmı kaldırıldı." = "iPhone alarm removed.";
+"Bu gün için eklendi. Tekrarlanan planın diğer günlerini Ajanda’dan ekleyebilirsin." = "Added for this day. You can add other occurrences from your agenda.";
+"İzin verilmedi. dAIly’nin iPhone ayarlarını kontrol et." = "Permission was denied. Check dAIly in iPhone Settings.";
+"Günün özeti" = "Day summary";
+"Gün özetleri" = "Daily summaries";
+"Henüz bir gün özeti yok." = "No daily summary yet.";
+"Bu gün için henüz özet oluşmadı." = "A summary isn’t available for this day yet.";
+"%lld harita notu etkilendi · %lld yeni bağlantı" = "%lld map notes affected · %lld new links";
+"Haritaları aç" = "Open maps";
+"Ajandayı aç" = "Open agenda";
+"iPhone alarmı kuruldu" = "iPhone alarm set";
+"Apple Takvim’e eklendi" = "Added to Apple Calendar";
+"Apple Anımsatıcılar’a eklendi" = "Added to Apple Reminders";
+"Apple izni kapalı. iPhone Ayarları’ndan izin verebilirsin." = "Apple access is off. You can allow access in iPhone Settings.";
+"Bu tekrar düzeni Apple’a aktarılamadı." = "This recurrence could not be scheduled in the requested Apple app.";
+"iPhone alarmı için iOS 26 veya üzeri gerekiyor." = "iPhone alarms require iOS 26 or later.";
+"Alarm için gelecekte bir tarih ve saat gerekiyor." = "An alarm needs a future date and time.";

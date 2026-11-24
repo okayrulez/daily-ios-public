@@ -1,0 +1,5 @@
+{
+  "extends":"./tsconfig.json",
+  "compilerOptions":{"outDir":"build/push","rootDir":"src","noEmit":false,"module":"NodeNext","moduleResolution":"NodeNext"},
+  "include":["src/main/push/**/*.ts","src/main/firebase/**/*.ts","src/shared/push.ts","src/shared/companion-inbox.ts"]
+}

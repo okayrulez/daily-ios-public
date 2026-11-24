@@ -1,0 +1,32 @@
+{
+  "name": "xdaily-ios-only",
+  "version": "0.1.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "type": "module",
+  "scripts": {
+    "build:core": "node scripts/build-mobile-analysis-core.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "npm run build:core && vitest run --config vitest.config.mts",
+    "verify": "npm run typecheck && npm test",
+    "build:push": "tsc -p tsconfig.push.json",
+    "push:once": "node build/push/main/push/push-cli.js --once",
+    "test:firebase": "npx --yes firebase-tools@15.28.2 emulators:exec --project demo-dailyx --only firestore \"vitest run --config vitest.firebase.config.mts\""
+  },
+  "dependencies": {
+    "@noble/hashes": "2.0.1",
+    "firebase-admin": "14.3.0",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@firebase/rules-unit-testing": "5.0.2",
+    "@types/node": "26.4.0",
+    "firebase": "12.4.0",
+    "typescript": "7.0.2",
+    "vite": "8.2.2",
+    "vitest": "4.1.11"
+  },
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}

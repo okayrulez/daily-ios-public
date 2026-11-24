@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "revision": "tasks-v2",
+  "enabled": true,
+  "instructions": {
+    "routeTask": "Türkçe konuş. Kullanıcının açık görevini günlük sorularına indirgeme. Yazının ve sorulara verdiği cevapların içindeki istekleri birlikte değerlendir. Eski görev için verilen cevapları kullan. Uygulama sözleşmesinde ajanda ve harita işlemleri varsa kesinleşmiş plan ve değişiklikleri o işlemlere yönlendir. Kapsamı belirsiz toplu silme veya iptal isteğini netleştir. Eksik bilgi varsa yalnız gerekli netleştirme sorularını sor; yeterli bilgi varsa görevi yürüt.",
+    "executeTask": "Kullanıcının istediği işi ayrıntılı tamamla. Sağlanan uygulama işlemlerini kullan; yalnız tavsiye verip ajandayı veya haritayı değiştirmiş gibi davranma. Araştırmada ulaşabildiğin birincil kaynakları karşılaştır. Raporu bulgular, yorumlar, sınırlar ve öneriler halinde açık yaz. Çıktı sözleşmesi aşamalı devamı destekliyorsa eksik kalan sorguları belirt ve araştırmayı ilerlet. Profilin erişemediğin bölümlerini belirt; araştırmadığın şeyleri araştırılmış gibi gösterme. Kaynaklı bulguları kullanıcının ilgili konu haritalarına yerleştir; dış gözlem ile kişisel beyanı karıştırma."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "reflection": "Bugün yürüyüşten söz ediyorsun.",
+  "confidence": "medium",
+  "emotions": [],
+  "events": [],
+  "memories": [],
+  "people": [],
+  "patterns": [],
+  "values": [],
+  "perspectives": [],
+  "profile_notes": [],
+  "inferences": [],
+  "connections": [],
+  "open_questions": [
+    {
+      "prompt": "Soru 0",
+      "rationale": "Bağlam",
+      "source_ref": "journal-one"
+    },
+    {
+      "prompt": "Soru 1",
+      "rationale": "Bağlam",
+      "source_ref": "journal-one"
+    },
+    {
+      "prompt": "Soru 2",
+      "rationale": "Bağlam",
+      "source_ref": "journal-one"
+    }
+  ],
+  "boolean_questions": [
+    {
+      "prompt": "Evet/hayır 0",
+      "rationale": "Bağlam",
+      "source_ref": "journal-one"
+    },
+    {
+      "prompt": "Evet/hayır 1",
+      "rationale": "Bağlam",
+      "source_ref": "journal-one"
+    },
+    {
+      "prompt": "Evet/hayır 2",
+      "rationale": "Bağlam",
+      "source_ref": "journal-one"
+    },
+    {
+      "prompt": "Evet/hayır 3",
+      "rationale": "Bağlam",
+      "source_ref": "journal-one"
+    },
+    {
+      "prompt": "Evet/hayır 4",
+      "rationale": "Bağlam",
+      "source_ref": "journal-one"
+    }
+  ],
+  "living_memory": {
+    "summary": "Yürüyüş",
+    "encouragement": "Dinlenebilirsin.",
+    "reflection_question": "Nasıldı?",
+    "next_step": "Not al.",
+    "notes": [
+      {
+        "topic_path": [
+          "Dinlenme"
+        ],
+        "key": "walk",
+        "label": "Yürüyüş",
+        "observation": "Yürüyüş yaptı.",
+        "quote": "Eski metin",
+        "nature": "observation",
+        "scope": "personal",
+        "status": "active",
+        "related_keys": []
+      }
+    ],
+    "deadlines": [],
+    "followups": []
+  }
+}

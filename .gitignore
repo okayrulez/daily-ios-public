@@ -1,0 +1,12 @@
+node_modules/
+build/
+coverage/
+ios/*.xcodeproj/
+ios/DailyCore/Resources/dailyx-analysis.js
+ios/DailyApp/Info.generated.plist
+ios/Config/
+.env*
+ios/DailyApp/BundledFirebase.plist
+*-debug.log
+.firebase/
+__pycache__/
